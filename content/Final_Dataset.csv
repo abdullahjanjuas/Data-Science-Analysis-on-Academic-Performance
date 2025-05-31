@@ -1,0 +1,166 @@
+Gender,Area,Living Situation,Higher Secondary Education,Higher Secondary Subjects,Higher Secondary Marks Percentage (%),NET Marks,Parents Education Level,Family Income,House Size (Sqft),Family Size,Stress Level,Confidence Level,Study Consistency Level,Participation in Extra-Curricular Activities,Available Emotional Support,Sleeping Level,Attendance Level,Access to Resources,Understanding of Subject,Interest in Degree,SGPA,Personal Space (Sqft)
+0,Male,Urban,Day Scholar,FSC,Pre Engineering,93,165,4,300000.0,3750,2.0,2,2,4,3,5,4,5,5,4,5,3.7,1875.0
+1,Male,Urban,Hostelite,FSC,Pre Engineering,95,145,5,200000.0,7500,5.0,3,4,4,4,4,5,4,4,4,4,3.4,1500.0
+2,Male,Urban,Hostelite,FSC,Computer Science,93,143,5,300000.0,1750,5.0,3,4,2,3,3,3,5,5,2,3,3.3,350.0
+3,Male,Urban,Hostelite,A Levels,Pre Engineering,88,150,5,300000.0,1750,4.0,2,3,1,3,3,3,4,5,5,5,3.4,437.5
+4,Male,Urban,Hostelite,FSC,Pre Engineering,89,143,5,200000.0,1750,10.0,1,3,3,5,5,1,5,5,1,5,3.3,175.0
+5,Female,Urban,Hostelite,FSC,Pre Medicine,90,144,4,100000.0,1750,7.0,5,4,2,3,4,3,5,5,5,4,2.7,250.0
+6,Male,Urban,Day Scholar,A Levels,Pre Engineering,94,145,4,300000.0,1750,5.0,2,4,2,2,5,3,4,5,3,4,3.8,350.0
+7,Female,Urban,Hostelite,FSC,Pre Engineering,92,140,4,200000.0,1750,4.0,5,5,5,4,4,4,5,4,3,3,3.1,437.5
+8,Male,Urban,Hostelite,FSC,Pre Engineering,85,150,4,200000.0,3750,6.0,1,4,2,3,4,3,4,3,2,2,2.8,625.0
+9,Male,Urban,Hostelite,FSC,Pre Engineering,89,143,3,100000.0,1750,5.0,4,4,4,4,4,4,4,2,2,2,3.3,350.0
+10,Male,Urban,Hostelite,A Levels,Pre Engineering,88,149,5,300000.0,3750,5.0,4,5,3,5,4,2,4,5,5,5,3.0,750.0
+11,Male,Rural,Day Scholar,FSC,Pre Engineering,93,141,4,100000.0,750,4.0,5,5,1,3,1,3,5,4,5,4,3.0,187.5
+12,Male,Urban,Day Scholar,IB Diploma,Pre Engineering,89,149,5,500000.0,7500,5.0,1,5,5,1,3,4,4,5,5,3,2.0,1500.0
+13,Female,Urban,Day Scholar,FSC,Pre Engineering,90,147,5,400000.0,1750,7.0,5,3,3,1,4,2,5,4,2,2,3.0,250.0
+14,Male,Urban,Day Scholar,FSC,Pre Engineering,90,139,3,100000.0,1750,5.0,3,2,2,2,5,2,5,3,2,2,2.9,350.0
+15,Male,Urban,Hostelite,FSC,Pre Engineering,89,143,4,100000.0,3750,8.0,3,4,2,2,2,5,5,2,1,3,3.2,468.75
+16,Male,Urban,Hostelite,FSC,Pre Medicine,92,149,5,200000.0,3750,11.0,2,4,3,1,5,2,5,3,1,5,2.6,340.90909090909093
+17,Female,Urban,Day Scholar,A Levels,Computer Science,83,143,5,500000.0,7500,5.0,1,2,3,2,5,3,5,5,5,4,3.6,1500.0
+18,Male,Urban,Day Scholar,A Levels,Pre Engineering,96,137,6,200000.0,22500,4.0,1,3,3,3,3,2,2,4,4,2,2.1,5625.0
+19,Female,Urban,Day Scholar,A Levels,Pre Engineering,68,146,3,500000.0,750,9.0,1,1,1,1,1,1,1,5,5,5,3.6,83.33333333333333
+20,Female,Urban,Day Scholar,A Levels,Pre Engineering,77,145,5,200000.0,7500,4.0,3,2,3,1,5,2,5,5,1,3,3.2,1875.0
+21,Male,Urban,Day Scholar,FSC,Pre Engineering,77,162,5,500000.0,7500,5.0,1,5,3,3,5,3,5,5,5,5,3.7,1500.0
+22,Female,Urban,Day Scholar,FSC,Computer Science,88,158,5,300000.0,1750,5.0,5,1,2,3,4,2,4,5,2,5,3.1,350.0
+23,Male,Urban,Hostelite,A Levels,Computer Science,94,154,5,300000.0,1750,4.0,2,4,3,2,4,3,5,3,3,3,3.0,437.5
+24,Male,Rural,Hostelite,FSC,Pre Engineering,94,144,1,37500.0,7500,2.0,1,4,3,1,1,3,4,1,1,1,2.9,3750.0
+25,Male,Urban,Hostelite,FSC,Pre Engineering,96,174,4,500000.0,3750,6.0,3,5,2,5,1,3,5,5,5,4,4.0,625.0
+26,Male,Urban,Day Scholar,FSC,Computer Science,75,135,3,100000.0,1750,6.0,1,4,3,2,5,3,5,5,4,4,3.5,291.6666666666667
+27,Female,Urban,Day Scholar,FSC,Pre Engineering,84,138,5,200000.0,750,4.0,5,3,1,3,3,3,5,5,1,1,2.6,187.5
+28,Female,Urban,Hostelite,FSC,Pre Engineering,71,149,3,100000.0,750,15.0,2,3,1,1,3,5,5,5,2,5,2.9,50.0
+29,Male,Rural,Hostelite,FSC,Computer Science,93,151,5,300000.0,1750,6.0,1,5,4,4,5,3,5,5,4,5,3.4,291.6666666666667
+30,Male,Urban,Hostelite,FSC,Computer Science,90,152,3,100000.0,750,7.0,4,3,1,1,5,3,5,3,3,3,2.8,107.14285714285714
+31,Male,Urban,Hostelite,A Levels,Pre Engineering,88,144,5,100000.0,7500,5.0,3,3,3,1,3,3,5,3,2,4,3.7,1500.0
+32,Male,Urban,Day Scholar,FSC,Pre Engineering,92,127,5,100000.0,3750,3.0,1,5,3,3,5,3,5,4,3,5,3.1,1250.0
+33,Male,Urban,Hostelite,FSC,Pre Engineering,86,130,5,100000.0,750,7.0,1,4,3,1,5,3,5,5,3,5,3.5,107.14285714285714
+34,Male,Urban,Day Scholar,A Levels,Pre Engineering,87,155,4,200000.0,1750,4.0,2,4,1,1,3,3,5,5,4,3,3.5,437.5
+35,Male,Urban,Hostelite,FSC,Pre Engineering,95,163,2,37500.0,750,4.0,5,2,3,2,2,4,4,1,3,2,3.9,187.5
+36,Male,Rural,Hostelite,FSC,Pre Medicine,77,153,5,200000.0,1750,3.0,4,2,1,2,1,5,3,2,2,3,2.8,583.3333333333334
+37,Male,Urban,Hostelite,FSC,Pre Engineering,97,147,6,400000.0,15000,8.0,1,1,2,1,3,5,5,5,4,5,2.8,1875.0
+38,Male,Urban,Day Scholar,FSC,Pre Engineering,98,154,5,500000.0,15000,6.0,3,4,1,1,3,4,4,5,3,4,2.6,2500.0
+39,Male,Urban,Hostelite,A Levels,Pre Engineering,88,153,6,300000.0,15000,3.0,4,4,2,3,4,3,5,4,2,5,3.8,5000.0
+40,Female,Urban,Day Scholar,FSC,Pre Engineering,89,156,6,300000.0,1750,5.0,3,1,3,2,2,3,5,3,3,5,4.0,350.0
+41,Male,Urban,Day Scholar,A Levels,Pre Engineering,92,162,3,200000.0,7500,3.0,4,2,3,2,5,3,5,5,4,4,3.8,2500.0
+42,Female,Urban,Day Scholar,FSC,Pre Engineering,95,151,5,500000.0,7500,7.0,4,4,4,3,5,3,5,4,1,1,3.4,1071.4285714285713
+43,Male,Urban,Hostelite,FSC,Computer Science,87,152,5,200000.0,1750,4.0,3,4,2,2,4,3,5,4,4,5,3.8,437.5
+44,Female,Urban,Hostelite,A Levels,Pre Engineering,90,151,5,300000.0,7500,8.0,5,3,3,2,2,2,4,5,3,3,3.0,937.5
+45,Male,Urban,Hostelite,FSC,Pre Engineering,71,126,5,300000.0,1750,6.0,2,1,2,1,2,2,5,5,5,5,2.9,291.6666666666667
+46,Female,Urban,Hostelite,FSC,Pre Engineering,96,140,4,200000.0,1750,9.0,5,4,3,2,3,3,5,4,1,2,2.8,194.44444444444446
+47,Male,Urban,Day Scholar,A Levels,Pre Engineering,89,138,6,500000.0,7500,5.0,4,3,1,3,3,3,5,5,3,3,3.6,1500.0
+48,Female,Urban,Hostelite,A Levels,Pre Engineering,89,149,4,400000.0,1750,4.0,3,4,3,1,5,4,5,4,4,4,3.8,437.5
+49,Female,Urban,Day Scholar,FSC,Pre Engineering,90,170,4,300000.0,3750,5.0,5,3,3,3,3,3,5,5,4,4,3.8,750.0
+50,Female,Urban,Day Scholar,FSC,Pre Engineering,87,128,5,300000.0,1750,5.0,1,2,2,1,2,1,2,3,1,2,2.5,350.0
+51,Female,Urban,Hostelite,FSC,Pre Engineering,89,150,4,500000.0,7500,6.0,3,3,3,2,4,2,5,5,4,4,3.0,1250.0
+52,Female,Urban,Day Scholar,IB Diploma,Pre Engineering,83,149,5,37500.0,3750,5.0,5,4,2,3,3,5,5,1,1,3,2.5,750.0
+53,Female,Urban,Hostelite,FSC,Pre Engineering,77,132,2,37500.0,750,5.0,3,2,2,2,4,3,5,5,5,3,2.7,150.0
+54,Male,Urban,Day Scholar,FSC,Pre Engineering,92,152,5,200000.0,3750,4.0,3,4,2,1,3,3,5,5,4,4,3.8,937.5
+55,Female,Urban,Day Scholar,A Levels,Computer Science,89,157,5,400000.0,7500,6.0,3,3,3,3,3,3,4,5,4,4,3.9,1250.0
+56,Male,Rural,Day Scholar,FSC,Pre Engineering,80,149,4,300000.0,1750,4.0,3,3,2,1,2,2,3,4,4,4,3.3,437.5
+57,Male,Rural,Hostelite,FSC,Pre Engineering,94,120,3,100000.0,7500,8.0,5,3,5,1,4,4,5,1,2,3,3.9,937.5
+58,Female,Urban,Day Scholar,FSC,Pre Engineering,86,134,5,200000.0,1750,4.0,4,4,2,1,5,4,4,2,2,5,2.7,437.5
+59,Male,Urban,Hostelite,FSC,Computer Science,78,138,2,37500.0,750,5.0,5,5,4,3,4,2,4,2,3,3,3.7,150.0
+60,Female,Urban,Hostelite,FSC,Pre Engineering,93,162,5,200000.0,3750,8.0,5,3,3,5,3,3,5,5,3,2,3.5,468.75
+61,Female,Urban,Day Scholar,FSC,Pre Medicine,89,147,4,200000.0,1750,4.0,5,2,2,2,3,2,5,5,2,4,3.1,437.5
+62,Male,Urban,Hostelite,FSC,Pre Medicine,87,151,4,300000.0,1750,4.0,1,2,1,1,2,1,2,3,1,3,2.8,437.5
+63,Female,Rural,Hostelite,FSC,Pre Engineering,77,125,4,100000.0,1750,9.0,5,3,3,1,4,2,4,2,1,3,1.1,194.44444444444446
+64,Female,Rural,Hostelite,FSC,Pre Medicine,93,155,5,100000.0,3750,8.0,3,5,3,4,3,3,5,1,2,3,3.3,468.75
+65,Male,Urban,Hostelite,FSC,Pre Engineering,73,140,2,200000.0,1750,7.0,3,2,2,1,3,3,3,4,3,3,3.5,250.0
+66,Female,Urban,Hostelite,FSC,Pre Engineering,89,125,5,300000.0,1750,6.0,5,2,2,1,5,2,5,5,5,3,3.3,291.6666666666667
+67,Male,Urban,Hostelite,FSC,Pre Engineering,84,119,4,37500.0,750,6.0,3,3,2,1,3,3,4,2,1,3,2.4,125.0
+68,Female,Urban,Day Scholar,FSC,Pre Engineering,94,150,1,200000.0,750,5.0,5,5,5,4,5,1,3,3,1,1,3.1,150.0
+69,Male,Rural,Hostelite,FSC,Pre Engineering,91,156,5,37500.0,1750,7.0,3,1,3,1,4,3,5,2,1,3,3.7,250.0
+70,Female,Urban,Hostelite,FSC,Pre Engineering,90,130,5,100000.0,1750,5.0,5,3,3,3,2,3,5,5,5,3,3.1,350.0
+71,Male,Urban,Day Scholar,A Levels,Computer Science,90,149,5,500000.0,3750,12.0,1,3,2,3,2,2,4,4,5,5,3.3,312.5
+72,Male,Urban,Hostelite,FSC,Pre Engineering,96,161,4,200000.0,1750,5.0,1,5,2,1,5,4,5,4,5,5,4.0,350.0
+73,Female,Urban,Day Scholar,FSC,Computer Science,93,169,6,300000.0,7500,5.0,5,2,2,2,4,3,5,5,3,4,3.9,1500.0
+74,Female,Urban,Hostelite,FSC,Pre Engineering,93,150,6,500000.0,7500,7.0,4,2,2,4,2,2,5,3,3,3,2.7,1071.4285714285713
+75,Male,Urban,Hostelite,FSC,Pre Engineering,91,154,5,200000.0,7500,7.0,3,4,3,5,3,3,5,5,1,2,3.1,1071.4285714285713
+76,Male,Urban,Day Scholar,A Levels,Computer Science,89,131,6,500000.0,3750,7.0,2,5,1,1,5,3,5,5,5,3,3.2,535.7142857142857
+77,Male,Urban,Hostelite,FSC,Pre Engineering,90,143,3,37500.0,750,16.0,1,5,4,4,5,3,5,3,3,3,2.7,46.875
+78,Male,Urban,Hostelite,FSC,Computer Science,93,152,4,500000.0,3750,6.0,1,1,2,2,1,2,3,1,2,1,3.0,625.0
+79,Female,Urban,Day Scholar,FSC,Pre Medicine,90,177,5,500000.0,3750,5.0,4,2,4,1,2,5,5,3,1,2,4.0,750.0
+80,Male,Urban,Hostelite,FSC,Computer Science,80,125,5,300000.0,1750,2.0,4,4,4,1,4,2,4,4,2,4,2.4,875.0
+81,Male,Urban,Day Scholar,FSC,Pre Engineering,79,141,5,300000.0,7500,6.0,1,3,2,1,4,3,5,4,3,4,3.9,1250.0
+82,Female,Urban,Hostelite,FSC,Pre Medicine,91,163,4,200000.0,1750,8.0,5,3,1,1,5,3,4,4,1,2,3.4,218.75
+83,Female,Urban,Day Scholar,FSC,Pre Medicine,89,148,4,400000.0,1750,6.0,4,2,3,3,4,3,5,5,5,1,3.2,291.6666666666667
+84,Male,Urban,Hostelite,FSC,Pre Engineering,83,148,4,100000.0,1750,5.0,5,4,3,5,4,3,5,3,1,3,3.0,350.0
+85,Male,Rural,Hostelite,FSC,Pre Engineering,78,144,4,100000.0,3750,8.0,4,1,1,1,1,2,3,5,2,1,2.6,468.75
+86,Female,Urban,Day Scholar,A Levels,Pre Engineering,90,157,5,200000.0,1750,7.0,5,1,1,1,3,1,5,5,3,5,3.2,250.0
+87,Male,Urban,Hostelite,FSC,Pre Engineering,93,136,5,200000.0,3750,3.0,5,1,4,3,3,3,5,4,4,3,2.5,1250.0
+88,Male,Urban,Hostelite,A Levels,Pre Engineering,90,139,5,500000.0,7500,5.0,5,3,1,1,1,1,5,5,1,3,3.3,1500.0
+89,Female,Rural,Hostelite,FSC,Pre Engineering,88,132,6,300000.0,7500,12.0,2,3,3,2,5,2,5,2,1,2,3.9,625.0
+90,Male,Urban,Day Scholar,FSC,Pre Engineering,93,161,5,200000.0,1750,6.0,3,4,4,1,3,3,5,3,5,4,3.8,291.6666666666667
+91,Male,Urban,Day Scholar,FSC,Pre Engineering,80,149,4,100000.0,1750,5.0,4,2,1,2,1,3,5,3,2,3,2.8,350.0
+92,Male,Urban,Hostelite,FSC,Pre Engineering,90,130,5,200000.0,1750,6.0,3,4,4,3,5,3,5,4,2,3,3.0,291.6666666666667
+93,Male,Urban,Hostelite,FSC,Pre Engineering,92,142,4,400000.0,750,3.0,4,2,1,1,3,2,4,4,2,1,2.8,250.0
+94,Male,Urban,Hostelite,FSC,Pre Engineering,93,144,4,200000.0,3750,5.0,3,5,1,5,1,5,3,5,2,3,3.3,750.0
+95,Female,Rural,Day Scholar,FSC,Pre Engineering,89,145,5,500000.0,22500,18.0,1,1,1,1,1,1,1,2,2,2,3.8,1250.0
+96,Female,Urban,Day Scholar,IB Diploma,Computer Science,81,149,2,100000.0,750,5.0,4,5,2,2,4,2,5,2,2,3,3.5,150.0
+97,Male,Urban,Day Scholar,FSC,Pre Engineering,82,137,5,200000.0,1750,6.0,3,2,1,1,3,3,5,4,4,5,3.4,291.6666666666667
+98,Male,Urban,Hostelite,A Levels,Pre Engineering,89,131,5,500000.0,3750,3.0,1,1,1,1,2,3,5,5,2,3,3.2,1250.0
+99,Male,Urban,Day Scholar,FSC,Pre Engineering,86,134,5,400000.0,3750,4.0,3,5,4,3,5,3,5,5,4,3,3.7,937.5
+100,Male,Urban,Hostelite,FSC,Pre Engineering,93,149,5,200000.0,1750,6.0,2,4,3,1,4,3,5,5,5,3,3.9,291.6666666666667
+101,Male,Urban,Day Scholar,FSC,Pre Engineering,90,151,5,200000.0,1750,5.0,4,3,2,1,3,2,5,3,2,4,2.0,350.0
+102,Male,Urban,Day Scholar,A Levels,Pre Engineering,94,152,5,300000.0,7500,4.0,4,3,4,3,5,2,5,5,4,4,4.0,1875.0
+103,Male,Rural,Hostelite,FSC,Pre Engineering,83,129,2,37500.0,1750,9.0,5,3,2,1,1,3,5,1,1,3,2.6,194.44444444444446
+104,Male,Urban,Hostelite,FSC,Pre Engineering,92,140,4,100000.0,1750,8.0,2,3,3,3,5,3,5,5,2,4,3.9,218.75
+105,Female,Urban,Day Scholar,FSC,Pre Engineering,94,163,4,100000.0,3750,7.0,4,4,4,4,5,3,5,4,1,2,3.7,535.7142857142857
+106,Male,Urban,Hostelite,FSC,Pre Engineering,89,157,4,200000.0,7500,6.0,3,2,1,4,3,2,4,4,4,5,3.1,1250.0
+107,Male,Urban,Day Scholar,FSC,Pre Engineering,88,154,4,300000.0,7500,3.0,2,3,4,2,4,3,5,4,2,3,3.7,2500.0
+108,Male,Urban,Day Scholar,A Levels,Computer Science,94,151,6,200000.0,1750,5.0,2,4,4,2,3,2,5,3,3,5,3.9,350.0
+109,Male,Urban,Day Scholar,FSC,Computer Science,86,154,6,500000.0,1750,5.0,2,3,3,4,5,4,5,4,5,5,3.2,350.0
+110,Male,Urban,Day Scholar,FSC,Pre Engineering,86,152,5,100000.0,1750,5.0,4,2,3,3,2,3,5,4,2,3,2.6,350.0
+111,Male,Urban,Day Scholar,FSC,Pre Engineering,89,153,4,200000.0,7500,6.0,2,4,3,4,5,4,5,4,4,4,3.7,1250.0
+112,Male,Urban,Day Scholar,A Levels,Pre Engineering,90,152,6,300000.0,7500,5.0,3,4,2,4,4,3,5,5,4,4,3.9,1500.0
+113,Male,Urban,Day Scholar,FSC,Computer Science,83,154,5,200000.0,750,5.0,2,2,4,1,2,3,5,5,5,5,2.7,150.0
+114,Female,Urban,Day Scholar,FSC,Pre Engineering,96,161,5,400000.0,7500,4.0,3,3,2,3,4,3,5,4,3,4,3.9,1875.0
+115,Male,Urban,Hostelite,FSC,Pre Medicine,94,149,4,100000.0,1750,5.0,3,3,4,2,5,3,5,5,5,4,3.4,350.0
+116,Female,Rural,Hostelite,FSC,Pre Medicine,92,153,4,200000.0,22500,9.0,4,2,3,1,3,4,5,3,1,4,3.3,2500.0
+117,Female,Urban,Day Scholar,FSC,Computer Science,89,150,5,37500.0,1750,9.0,3,4,2,2,4,5,5,4,4,5,3.0,194.44444444444446
+118,Male,Urban,Day Scholar,FSC,Pre Medicine,91,176,4,200000.0,3750,4.0,3,3,3,1,3,3,5,5,3,3,3.5,937.5
+119,Female,Urban,Hostelite,FSC,Pre Medicine,95,158,4,300000.0,3750,6.0,4,1,3,2,2,2,5,5,3,4,3.1,625.0
+120,Male,Urban,Hostelite,FSC,Pre Engineering,94,152,4,500000.0,3750,7.0,5,5,5,5,5,2,5,5,5,5,3.6,535.7142857142857
+121,Male,Urban,Day Scholar,FSC,Pre Medicine,89,152,5,100000.0,1750,3.0,4,2,1,1,1,2,3,3,1,4,3.1,583.3333333333334
+122,Female,Rural,Hostelite,FSC,Pre Medicine,93,162,5,200000.0,7500,6.0,4,1,1,1,1,2,3,5,1,1,2.6,1250.0
+123,Male,Urban,Hostelite,FSC,Pre Medicine,88,155,5,500000.0,22500,8.0,2,3,1,1,3,2,4,3,1,3,3.0,2812.5
+124,Male,Urban,Day Scholar,FSC,Pre Engineering,85,153,5,300000.0,7500,6.0,2,4,3,4,4,4,5,5,4,4,3.7,1250.0
+125,Female,Urban,Hostelite,A Levels,Pre Engineering,89,149,4,400000.0,1750,4.0,2,3,3,2,5,3,3,3,3,4,3.0,437.5
+126,Female,Urban,Hostelite,FSC,Computer Science,96,152,2,100000.0,750,4.0,5,4,3,1,1,3,5,5,5,5,3.9,187.5
+127,Male,Rural,Day Scholar,FSC,Pre Medicine,91,150,4,37500.0,750,8.0,1,4,5,1,1,2,5,2,3,5,2.5,93.75
+128,Male,Urban,Day Scholar,A Levels,Pre Engineering,94,163,5,400000.0,7500,5.0,3,3,2,2,4,2,2,3,3,3,3.0,1500.0
+129,Male,Urban,Day Scholar,FSC,Pre Engineering,94,171,3,500000.0,7500,6.0,3,1,4,3,3,3,5,3,4,4,3.6,1250.0
+130,Male,Urban,Hostelite,FSC,Pre Medicine,92,161,4,200000.0,3750,3.0,2,3,2,2,4,3,5,4,3,3,3.6,1250.0
+131,Male,Urban,Hostelite,FSC,Pre Engineering,84,158,5,500000.0,3750,6.0,4,3,2,2,4,3,5,5,3,4,3.6,625.0
+132,Male,Urban,Hostelite,FSC,Pre Engineering,93,160,5,500000.0,3750,5.0,3,3,1,2,5,3,5,5,5,3,3.3,750.0
+133,Male,Urban,Hostelite,FSC,Pre Engineering,92,169,5,200000.0,1750,4.0,2,3,1,1,4,3,5,5,5,5,3.2,437.5
+134,Female,Urban,Hostelite,FSC,Pre Medicine,93,157,2,100000.0,750,5.0,4,2,3,1,5,2,5,2,1,3,2.4,150.0
+135,Female,Urban,Hostelite,FSC,Pre Medicine,95,151,5,300000.0,15000,10.0,5,3,2,1,4,1,4,5,1,3,2.9,1500.0
+136,Male,Urban,Day Scholar,FSC,Pre Engineering,92,153,5,100000.0,1750,4.0,5,2,1,2,3,2,5,4,2,3,3.0,437.5
+137,Male,Urban,Day Scholar,FSC,Pre Engineering,88,157,5,100000.0,750,6.0,3,4,2,3,1,3,5,4,4,4,3.5,125.0
+138,Male,Rural,Hostelite,FSC,Pre Medicine,91,150,3,100000.0,1750,7.0,3,3,4,1,5,3,5,3,1,4,3.4,250.0
+139,Male,Urban,Hostelite,FSC,Pre Medicine,92,154,5,200000.0,3750,5.0,3,4,2,4,3,3,5,4,2,3,3.1,750.0
+140,Male,Urban,Hostelite,A Levels,Computer Science,90,155,5,100000.0,3750,6.0,2,3,2,3,5,2,5,5,5,5,3.2,625.0
+141,Male,Urban,Hostelite,FSC,Pre Engineering,89,155,3,200000.0,1750,12.0,4,3,4,3,3,3,4,2,2,4,3.6,145.83333333333334
+142,Male,Rural,Hostelite,FSC,Computer Science,88,155,1,200000.0,1750,4.0,4,2,4,2,3,3,5,4,3,4,3.5,437.5
+143,Male,Urban,Day Scholar,FSC,Pre Engineering,89,158,6,400000.0,7500,4.0,2,3,2,2,5,2,5,5,4,5,3.1,1875.0
+144,Male,Urban,Hostelite,FSC,Pre Medicine,91,160,6,500000.0,3750,11.0,4,3,2,4,3,3,5,4,2,4,3.6,340.90909090909093
+145,Male,Urban,Hostelite,FSC,Pre Engineering,95,161,5,200000.0,7500,7.0,3,2,4,4,4,2,5,3,1,4,3.6,1071.4285714285713
+146,Male,Urban,Hostelite,A Levels,Computer Science,89,149,5,500000.0,3750,5.0,3,4,3,4,5,2,4,5,3,4,3.0,750.0
+147,Male,Urban,Hostelite,FSC,Pre Engineering,79,160,4,100000.0,3750,4.0,4,1,2,1,1,1,3,5,2,1,2.6,937.5
+148,Male,Urban,Day Scholar,IB Diploma,Computer Science,86,170,4,100000.0,3750,9.0,4,2,2,2,1,2,2,1,1,2,3.4,416.6666666666667
+149,Male,Urban,Hostelite,FSC,Pre Engineering,92,152,5,100000.0,7500,10.0,4,4,4,3,4,3,5,5,5,5,3.6,750.0
+150,Male,Urban,Hostelite,FSC,Computer Science,86,159,5,200000.0,750,6.0,4,4,1,3,5,2,4,4,4,4,3.1,125.0
+151,Female,Rural,Hostelite,FSC,Pre Engineering,94,153,3,37500.0,7500,10.0,5,1,5,1,3,1,5,1,1,4,3.0,750.0
+152,Male,Rural,Hostelite,FSC,Pre Medicine,82,154,4,100000.0,7500,19.0,3,3,3,3,4,3,5,2,2,3,2.4,394.7368421052632
+153,Female,Urban,Day Scholar,A Levels,Computer Science,93,157,5,300000.0,15000,6.0,3,4,4,4,4,3,5,5,5,5,3.9,2500.0
+154,Male,Urban,Hostelite,FSC,Pre Medicine,94,160,4,200000.0,3750,5.0,5,1,1,1,5,2,5,3,3,5,3.2,750.0
+155,Male,Urban,Day Scholar,FSC,Pre Engineering,85,157,5,200000.0,1750,5.0,3,1,1,1,3,3,5,5,3,4,2.9,350.0
+156,Female,Urban,Day Scholar,FSC,Pre Engineering,92,161,4,400000.0,3750,7.0,5,3,4,1,5,2,5,5,1,1,3.6,535.7142857142857
+157,Female,Urban,Day Scholar,FSC,Pre Engineering,96,169,4,300000.0,3750,3.0,5,2,1,1,2,2,5,5,1,1,2.8,1250.0
+158,Male,Urban,Hostelite,FSC,Pre Medicine,93,153,5,500000.0,7500,6.0,4,1,1,2,3,3,5,5,4,2,2.8,1250.0
+159,Male,Urban,Day Scholar,FSC,Pre Engineering,95,171,3,500000.0,7500,6.0,4,1,4,3,3,3,5,2,4,4,3.6,1250.0
+160,Male,Urban,Hostelite,FSC,Pre Medicine,79,157,3,200000.0,1750,6.0,4,4,3,2,5,2,4,5,3,4,2.8,291.6666666666667
+161,Male,Urban,Hostelite,FSC,Pre Engineering,97,156,4,100000.0,750,5.0,4,2,1,2,3,2,4,3,2,2,2.9,150.0
+162,Male,Rural,Hostelite,FSC,Pre Medicine,84,168,5,100000.0,750,5.0,3,2,2,2,3,3,4,2,1,3,1.8,150.0
+163,Male,Urban,Day Scholar,FSC,Pre Engineering,84,154,5,200000.0,3750,5.0,4,1,2,1,4,2,5,5,1,3,3.0,750.0
+164,Male,Urban,Day Scholar,FSC,Pre Engineering,96,153,5,200000.0,3750,6.0,4,3,3,2,2,3,5,5,2,3,3.2,625.0

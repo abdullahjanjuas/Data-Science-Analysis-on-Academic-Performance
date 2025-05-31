@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SGPA Predictor</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 1.8em;
+            margin-bottom: 30px;
+        }
+        label {
+            font-weight: 500;
+            display: block;
+            margin-bottom: 6px;
+        }
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #fff;
+            font-size: 1em;
+        }
+        input[type="submit"] {
+            background-color: #007acc;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            font-weight: 600;
+        }
+        input[type="submit"]:hover {
+            background-color: #005fa3;
+        }
+        h2 {
+            text-align: center;
+            color: #007acc;
+        }
+    </style>
+</head>
+<body>
+    <h1>University SGPA Predictor</h1>
+    <form method="POST">
+
+        <label>Higher Secondary Marks Percentage (%)</label>
+        <input type="number" name="hs_marks" step="0.01" required>
+
+        <label>NET Marks (0-200)</label>
+        <input type="number" name="net_marks" required>
+
+        <label>Family Size</label>
+        <input type="number" name="family_size" step="0.1" required>
+
+        <label>Personal Space (Sqft)</label>
+        <input type="number" name="personal_space" step="0.1" required>
+
+        <label>Parents Education Level</label>
+        <select name="parents_edu">
+            <option value="0">Primary</option>
+            <option value="1">Secondary</option>
+            <option value="2">Higher Secondary</option>
+            <option value="3">Graduation</option>
+            <option value="4">Post Graduation</option>
+            <option value="5">PhD / ScD</option>
+        </select>
+
+        <label>Family Income</label>
+        <select name="income">
+            <option value="0">Below 25,000</option>
+            <option value="1">25,000 to 50,000</option>
+            <option value="2">50,000 to 150,000</option>
+            <option value="3">150,000 to 250,000</option>
+            <option value="4">250,000 to 350,000</option>
+            <option value="5">350,000 to 450,000</option>
+            <option value="6">450,000 above</option>
+        </select>
+
+        <label>House Size</label>
+        <select name="house_size">
+            <option value="0">less than 5 marla</option>
+            <option value="1">5 - 9 marla</option>
+            <option value="2">10 - 19 marla</option>
+            <option value="3">1 - 2 kanal</option>
+            <option value="4">2 - 4 kanal</option>
+            <option value="5">4+ kanal</option>
+        </select>
+
+        <label>Gender</label>
+        <select name="gender">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select>
+
+        <label>Area</label>
+        <select name="area">
+            <option value="Urban">Urban</option>
+            <option value="Rural">Rural</option>
+        </select>
+
+        <label>Living Situation</label>
+        <select name="living">
+            <option value="Day Scholar">Day Scholar</option>
+            <option value="Hostelite">Hostelite</option>
+        </select>
+
+        <label>Higher Secondary Education</label>
+        <select name="hs_edu">
+            <option value="FSC">FSC</option>
+            <option value="A Levels">A Levels</option>
+            <option value="Other">Other</option>
+        </select>
+
+        <label>Higher Secondary Subjects</label>
+        <select name="hs_subject">
+            <option value="Computer Science">Computer Science</option>
+            <option value="Pre Engineering">Pre Engineering</option>
+            <option value="Pre Medicine">Pre Medicine</option>
+        </select>
+
+        {% for field, name in [
+            ('stress', 'Your Stress Level'),
+            ('confidence', 'Your Self-Confidence Level'),
+            ('consistency', 'Study Consistency Level'),
+            ('extra', 'Participation in Extra-Curricular Activities'),
+            ('emotional', 'Emotional Support from Parents/Family/Friends'),
+            ('sleep', 'Sleep Pattern'),
+            ('attendance', 'Attendance'),
+            ('Interest', 'Interest in Degree'),
+            ('resources', 'Access to Resources'),
+            ('understanding', 'Understanding of Subject')
+        ] %}
+            <label>{{ name }}</label>
+            <select name="{{ field }}">
+                {% for i in range(1, 6) %}
+                    <option value="{{ i }}">{{ i }}</option>
+                {% endfor %}
+            </select>
+        {% endfor %}
+
+        <input type="submit" value="Predict SGPA">
+    </form>
+
+    {% if prediction is not none %}
+        <h2>Predicted SGPA: {{ prediction }}</h2>
+    {% endif %}
+</body>
+</html>

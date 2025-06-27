@@ -1,4 +1,4 @@
-# DS-401 Project 🚀
+# Data Science Analysis on Socio-economic and Demographic Factors Affecting Academic Performance Project 🚀
 
 An end-to-end data science project developed as part of the **DS-401** course. This project encompasses data preprocessing, model training, and deployment of a machine learning model using **FastAPI**, with deployment facilitated via **Vercel**.
 
@@ -37,7 +37,7 @@ DS-401-Project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/HanzalaRehan/DS-401-Project.git
+git clone https://github.com/abdullahjanjuas/Data-Science-Analysis-on-Academic-Performance.git
 cd DS-401-Project
 ```
 
